@@ -1,4 +1,4 @@
-# Smart Reservation Table-https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/
+# Smart Reservation Table
 # 1. Introduction:
 Smart Reservation Table is a management system that connects restaurants and customers. The system not only allows the customers to see what date and time they can book, but also provides notification so that the customers do not forget their reservations.
 
