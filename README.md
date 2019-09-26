@@ -33,4 +33,4 @@ CUSTOMERS LOGIN:
 # 5.Hardware and Sensor implementation:
 - Pressure sensor - detect if a table or a chair is occupied by a customer.
 - GPS sensor - token taken to the table by the client upon confirming the reservation at a restaurant).
-- Weight sensor (piezoelectric sensors or h20 photoelectric sensor) - detects it a customer's drink or water container needs to be refilled. (QS30 H20 photoelectric sensor).
+- Weight sensor (piezoelectric sensors or h20 photoelectric sensor) - detects it a customer's drink or water container needs to be refilled. (QS30 H20 photoelectric sensor)..
