@@ -3,6 +3,7 @@
 Status Update:
 + OS/Bootloader loaded on Raspberry Pi 3B+. Testing on GPSV3 Neo Sensor.
 + PCB Board needs to be remaked.
++ [GPS Testing Output](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/gpstesting.PNG)
 # Week 8 - 31st Oct, 2019 - Breadboard Milestone [Breadboard Design Image](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/breadboardmilestone.jpg)
 Status Update:
 + Loading OS/Bootloader on Raspberry Pi 3B+.
