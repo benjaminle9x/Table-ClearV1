@@ -1,9 +1,11 @@
 # Smart Reservation Table- [Instructions](https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/)
+# Week 10 - 14th Nov, 2019 - PCB Powered Up - [Powered PCB] (
+Status Update:
+
 # Week 9 - 7th Nov, 2019 - PCB Soldered [PCB Design](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/pcbsoldered.jpg)
 Status Update:
 + OS/Bootloader loaded on Raspberry Pi 3B+. Testing on GPSV3 Neo Sensor.
 + PCB Board needs to be remaked.
-+ [GPS Testing Output](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/gpstesting.PNG)
 # Week 8 - 31st Oct, 2019 - Breadboard Milestone [Breadboard Design Image](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/breadboardmilestone.jpg)
 Status Update:
 + Loading OS/Bootloader on Raspberry Pi 3B+.
