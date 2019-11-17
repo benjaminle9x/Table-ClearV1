@@ -1,7 +1,8 @@
 # Smart Reservation Table- [Instructions](https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/)
-# Week 10 - 14th Nov, 2019 - PCB Powered Up - [Powered PCB] (
+# Week 10 - 14th Nov, 2019 - PCB Powered Up - [Powered PCB] (https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/pcbpowered.jpg)
 Status Update:
-
++ PCB Board powered up and attached successfully on Raspberry Pi and GPS Sensor.
++ GPS is not functioning correctly, it still cannot read data from the Cloud server.
 # Week 9 - 7th Nov, 2019 - PCB Soldered [PCB Design](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/pcbsoldered.jpg)
 Status Update:
 + OS/Bootloader loaded on Raspberry Pi 3B+. Testing on GPSV3 Neo Sensor.
