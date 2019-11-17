@@ -3,10 +3,13 @@
 Status Update:
 + PCB Board powered up and attached successfully on Raspberry Pi and GPS Sensor.
 + GPS is not functioning correctly, it still cannot read data from the Cloud server.
++ Project is slower than schedule, getting readings from the sensor is still not figured out.
 # Week 9 - 7th Nov, 2019 - PCB Soldered [PCB Design](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/pcbsoldered.jpg)
 Status Update:
++ Budget extended when I had to buy a SD Card preloaded with Raspbian for $12.00.
 + OS/Bootloader loaded on Raspberry Pi 3B+. Testing on GPSV3 Neo Sensor.
 + PCB Board needs to be remaked.
++ Project is still on schedule.
 # Week 8 - 31st Oct, 2019 - Breadboard Milestone [Breadboard Design Image](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/breadboardmilestone.jpg)
 Status Update:
 + Loading OS/Bootloader on Raspberry Pi 3B+.
