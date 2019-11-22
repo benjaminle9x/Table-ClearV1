@@ -1,4 +1,8 @@
 # Smart Reservation Table- [Instructions](https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/)
+# Week 11 - 21st Nov, 2019 - Enclosure Due - [Project Case](...)
+Status Update:
++ Wire connected between the antenna and the sensor is broken -> costs extra $60 on budget to purchase a new antenna.
++ Case will be made by 22nd and the image of the case will be uploaded on the same day.
 # Week 10 - 14th Nov, 2019 - PCB Powered Up - [Powered PCB](https://github.com/benjaminle9x/Table-Readyy/blob/master/Images%20Folder/pcbpowered.jpg)
 Status Update:
 + PCB Board powered up and attached successfully on Raspberry Pi and GPS Sensor.
