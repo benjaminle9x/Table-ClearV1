@@ -1,7 +1,7 @@
 # TABLE CLEAR V1
 
 ## Table of Contents
-* [Parts]
+* [Parts](#parts)
 * [Time Commitment]
 * [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard]
 * [PCB Designing & Soldering]
