@@ -4,7 +4,7 @@
 * [Introduction](#intro)
 * [Parts](#parts)
 * [Time Commitment](#time)
-* [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard]
+* [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard](#bread)
 * [PCB Designing & Soldering]
 * [Assembly]
 * [Power Up]
@@ -26,5 +26,13 @@ Total: $210 ~ $235.
 ## <a name="time">Time Commitment</a>
 * The hardware part of the project can be done within 2 ~ 3 weeks. The Gantt chart below shows the exact schedule of the project.
 ![GanttChart](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/schedule.png)
+
+## <a name="bread">Breadboard Design</a>
+* There are only 4 wires needed to connect the GPS Module to the Raspberry Pi
+* GPSV3 Neo 6M              Raspberry Pi
+* VCC               to      Pin 1 (3.3V)
+* TX                to      Pin 10 (RX - GPIO15)
+* RX                to      Pin 8 (TX - GPIO14)
+* GND               to      Pin 6 (GND)
 
 
