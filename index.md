@@ -1,5 +1,9 @@
 # Smart Reservation Table- [Instructions](https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/)
+# Week 13 - 5th Dec, 2019 - Presentation Due Conti...
 # Week 12 - 28th Nov, 2019 - Presentation Due - [Powerpoint Slide](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Documentation/HardwarePT.pptx)
+Status Update:
++ Raw readings from GPS Sensor received.
++ Working on Software part to transmitt the readings into longitude and latitude.
 # Week 11 - 21st Nov, 2019 - Enclosure Due - ![Project Case](https://github.com/benjaminle9x/Table-Readyy/blob/master/Mechanical%20Files/RPiCaseV1.PNG)
 Status Update:
 + Wire connected between the antenna and the sensor is broken -> costs extra $60 on budget to purchase a new antenna.
