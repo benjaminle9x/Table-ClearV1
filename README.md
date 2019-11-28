@@ -34,5 +34,6 @@ Total: $210 ~ $235.
 * TX                to      Pin 10 (RX - GPIO15)
 * RX                to      Pin 8 (TX - GPIO14)
 * GND               to      Pin 6 (GND)
+![Breadboard](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Electric%20Folder/GY-NEO6MV2_bb.pdf)
 
 
