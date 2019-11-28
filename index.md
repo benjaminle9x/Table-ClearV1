@@ -1,4 +1,5 @@
 # Smart Reservation Table- [Instructions](https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/)
+# Week 12 - 28th Nov, 2019 - Presentation Due - [Powerpoint Slides]()
 # Week 11 - 21st Nov, 2019 - Enclosure Due - [Project Case](https://github.com/benjaminle9x/Table-Readyy/blob/master/Mechanical%20Files/RPiCaseV1.PNG)
 Status Update:
 + Wire connected between the antenna and the sensor is broken -> costs extra $60 on budget to purchase a new antenna.
