@@ -8,7 +8,7 @@
 * [PCB Designing & Soldering](#pcb)
 * [Power Up](#power)
 * [Configurating services](#config)
-* [Unit Testing]
+* [Unit Testing](#unit)
 
 ## <a name="intro">Introduction</a>
 * The Table Clear project is a wait-list, reservations and seating management system that turns smartphones into pagers, revolutionizing the way restaurants connect with their customers.
@@ -50,7 +50,7 @@ Total: $210 ~ $235.
 * Install pip: `sudo apt-get install python-pip`
 * Install pynmea2: `sudo pip install pynmea2`
 * Install GPS software: `sudo apt-get install gpsd gpsd-clients python-gps minicom`
-* Modify serial port cmdline.txt: `sudo nano /boot/cmdline.txt` and replace all the content with the following lines: `dwc_otg.lpm_enable=0 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles`
+* Modify serial port cmdline.txt: `sudo nano /boot/cmdline.txt` and replace all the content with the following lines: ```dwc_otg.lpm_enable=0 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles```
 * Change startup settings: `sudo nano /boot/config.txt` and Add the following lines at the end of 'config.txt' file:
 ```
 dtparam=spi=on
@@ -60,6 +60,27 @@ enable_uart=1
 force_turbo=1
 init_uart_baud=9600
 ```
+* Reboot the system: `sudo reboot`
+* Configure the module for the 9600 rate: `stty -F /dev/ttyAMA0 9600`
+* Connect AMA0 to the GPS Software:
+* 1st: Kill the process and add the device to the gpsd tool: 
+```
+sudo killall gpsd
+sudo nano /etc/default/gpsd
+```
+* 2nd: Edit the file /etc/default/gpsd and add the serial port in DEVICES:
+```
+DEVICES="/dev/ttyAMA0"
+```
+* 3rd: Restart the software
+```
+sudo systemctl enable gpsd.socket
+sudo systemctl start gpsd.socket
+sudo cgps -s
+```
+
+## <a name="unit">Unit Testing</a>
+
 
 
 
