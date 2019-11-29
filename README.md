@@ -80,6 +80,31 @@ sudo cgps -s
 ```
 
 ## <a name="unit">Unit Testing</a>
+* Testing the terminal output of the sensor works: `cat /dev/ttyAMA0`
+![Raw](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/raw.PNG)
+* Run the script:
+```
+cd Python-NEO-6M-GPS-Raspberry-Pi
+sudo python Neo6mGPS.py
+```
+* Implement the source code:
+```
+import serial
+import pynmea2
+def parseGPS(str):
+    if str.find('GGA') > 0:
+        msg = pynmea2.parse(str)
+        print "Timestamp: %s -- Lat: %s %s -- Lon: %s %s -- Altitude:
+%s %s" %
+(msg.timestamp,msg.lat,msg.lat_dir,msg.lon,msg.lon_dir,msg.altitude,m
+sg.altitude_units)
+serialPort = serial.Serial("/dev/ttyAMA0", 9600, timeout=0.5)
+while True:
+    str = serialPort.readline()
+    parseGPS(str)
+```
+* Output terminal:
+![Out](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/output.PNG)
 
 
 
