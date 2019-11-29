@@ -6,8 +6,7 @@
 * [Time Commitment](#time)
 * [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard](#bread)
 * [PCB Designing & Soldering](#pcb)
-* [Assembly]
-* [Power Up]
+* [Power Up](#power)
 * [Unit Testing]
 
 ## <a name="intro">Introduction</a>
@@ -42,6 +41,9 @@ Total: $210 ~ $235.
 * PCB Soldering
 ![PCBSold1](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/solder1.jpg)
 ![PCBSold2](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/solder2.jpg)
+
+## <a name="power">Power Up</a>
+![Power](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/pcbpowered.jpg)
 
 
 
