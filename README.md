@@ -7,6 +7,7 @@
 * [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard](#bread)
 * [PCB Designing & Soldering](#pcb)
 * [Power Up](#power)
+* [Configurating services](#config)
 * [Unit Testing]
 
 ## <a name="intro">Introduction</a>
@@ -45,6 +46,20 @@ Total: $210 ~ $235.
 ## <a name="power">Power Up</a>
 ![Power](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/pcbpowered.jpg)
 
+## <a name="config">Configurating services</a>
+* Install pip: `sudo apt-get install python-pip`
+* Install pynmea2: `sudo pip install pynmea2`
+* Install GPS software: `sudo apt-get install gpsd gpsd-clients python-gps minicom`
+* Modify serial port cmdline.txt: `sudo nano /boot/cmdline.txt` and replace all the content with the following lines: `dwc_otg.lpm_enable=0 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles`
+* Change startup settings: `sudo nano /boot/config.txt` and Add the following lines at the end of 'config.txt' file:
+```
+dtparam=spi=on
+dtoverlay=pi3-disable-bt
+core_freq=250
+enable_uart=1
+force_turbo=1
+init_uart_baud=9600
+```
 
 
 
