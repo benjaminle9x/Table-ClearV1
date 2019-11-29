@@ -5,7 +5,7 @@
 * [Parts](#parts)
 * [Time Commitment](#time)
 * [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard](#bread)
-* [PCB Designing & Soldering]
+* [PCB Designing & Soldering](#pcb)
 * [Assembly]
 * [Power Up]
 * [Unit Testing]
@@ -37,11 +37,12 @@ Total: $210 ~ $235.
 ![Breadboard](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/breadboard.png)
 
 ## <a name="pcb">PCB Designing and Soldering</a>
-* PCB Board design
+* PCB Board design: Retrieve the Fritzing file in `Electric Folder/GY-NEO6MV2.fzz`, export the PCB design as Production in Gerber files format.
 ![PCBDesign](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/pcb.png)
 * PCB Soldering
 ![PCBSold1](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/solder1.jpg)
 ![PCBSold2](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/solder2.jpg)
+
 
 
 
