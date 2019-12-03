@@ -18,10 +18,11 @@
 * Raspberry Pi any version (Preferred 3B, 3B+ or 4) with microSD Card preinstalled with Raspbian Full Version. ($70 ~ $75)
 * GPSV3 Neo 6M Sensor with Antenna Module. ($110 ~ $120)
 * HDMI to VGA cable, VGA to VGA cable, Ethernet cable, Ethernet Adapter, Raspberry Pi Power cable ($30 ~ $40)
+* GPS Antenna with strong Wifi connection + RF U.FL Mini PCI to RP-SMA Female Adapter ($30)
 * Monitor, keyboard, mouse. (optional)
 * Breadboard.
 
-Total: $210 ~ $235. 
+Total: $240 ~ $265. 
 
 ## <a name="time">Time Commitment</a>
 * The hardware part of the project can be done within 2 ~ 3 weeks. The Gantt chart below shows the exact schedule of the project.
