@@ -48,6 +48,7 @@ Total: $240 ~ $265.
 ![PCBSold2](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/solder2.jpg)
 
 ## <a name="power">Power Up</a>
+* Before powering up the entire Hardware, make sure you test the resistance between the VCC and the GND pin on the PCB Board. The resistance there should be extremely high. If not, the PCB Board is shorted and eventually will damage Raspberry Pi, as well as the GPS Sensor.
 ![Power](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/pcbpowered.jpg)
 
 ## <a name="config">Configurating services</a>
