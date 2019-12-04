@@ -20,14 +20,16 @@
 * GPSV3 Neo 6M Sensor with Antenna Module. ($110 ~ $120)
 * HDMI to VGA cable, VGA to VGA cable, Ethernet cable, Ethernet Adapter, Raspberry Pi Power cable ($30 ~ $40)
 * GPS Antenna with strong Wifi connection + RF U.FL Mini PCI to RP-SMA Female Adapter ($30)
-* Monitor, keyboard, mouse. (optional)
-* Breadboard.
+* Monitor, keyboard, mouse, breadboard. (optional)
+* PCB Design - [Click here to retrieve the Gerber file for PCB](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Electric%20Folder/HoangLongLe_TableClearV3.zip)
+
 
 Total: $240 ~ $265. 
 
 ## <a name="time">Time Commitment</a>
-* The hardware part of the project can be done within 2 ~ 3 weeks. The Gantt chart below shows the exact schedule of the project.
-![GanttChart](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/schedule.png)
+* Purchasing and delivering parts would take approximately 1 week.
+* Assemblying, testing and implementing codes would take take approximately 1 week.
+* Total: ~ 2 weeks
 
 ## <a name="bread">Breadboard Design</a>
 * There are only 4 wires needed to connect the GPS Module to the Raspberry Pi
