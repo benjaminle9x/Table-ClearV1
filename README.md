@@ -33,11 +33,11 @@ Total: $240 ~ $265.
 
 ## <a name="bread">Breadboard Design</a>
 * There are only 4 wires needed to connect the GPS Module to the Raspberry Pi
-* GPSV3 Neo 6M              Raspberry Pi
-* VCC               to      Pin 1 (3.3V)
-* TX                to      Pin 10 (RX - GPIO15)
-* RX                to      Pin 8 (TX - GPIO14)
-* GND               to      Pin 6 (GND)
+* GPSV3 Neo 6M      -            Raspberry Pi
+* VCC               -            Pin 1 (3.3V)
+* TX                -            Pin 10 (RX - GPIO15)
+* RX                -            Pin 8 (TX - GPIO14)
+* GND               -            Pin 6 (GND)
 ![Breadboard](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/breadboard.png)
 
 ## <a name="pcb">PCB Designing and Soldering</a>
