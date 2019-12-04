@@ -11,6 +11,7 @@
 * [Unit Testing](#unit)
 
 ## <a name="intro">Introduction</a>
+![Project_Image](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/project.jpg)
 * The Table Clear project is a wait-list, reservations and seating management system that turns smartphones into pagers, revolutionizing the way restaurants connect with their customers.
 * Table Clear allows restaurants to see reservations, booking information and wait-list in real-time database, sends notification to customers when their table is ready, seats them efficiently and confirms the booking by sending notification messages.
 
