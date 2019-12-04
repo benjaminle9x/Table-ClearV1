@@ -110,6 +110,7 @@ while True:
 ```
 * Output terminal:
 ![Out](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/output.PNG)
+* Both hardware and software part for this project is quite simple; therefore, it would be possible to make a thousand of such project in a short period of time without skipping any steps or processes.
 
 
 
