@@ -1,4 +1,5 @@
 # TABLE CLEAR V1
+![Project_Image](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/project.jpg)
 
 ## Table of Contents
 * [Introduction](#intro)
@@ -12,7 +13,6 @@
 * [Unit Testing](#unit)
 
 ## <a name="intro">Introduction</a>
-![Project_Image](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/project.jpg)
 * The Global Positioning System (GPS) is a satellite-based navigation system made up of at least 24 satellites. GPS works in any weather conditions, anywhere in the world, 24 hours a day, with no subscription fees or setup charges. The U.S. Department of Defense (USDOD) originally put the satellites into orbit for military use, but they were made available for civilian use in the 1980s.
 * GPS satellites circle the Earth twice a day in a precise orbit. Each satellite transmits a unique signal and orbital parameters that allow GPS devices to decode and compute the precise location of the satellite. GPS receivers use this information and trilateration to calculate a user's exact location.
 
