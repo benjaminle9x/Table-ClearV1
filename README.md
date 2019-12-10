@@ -17,9 +17,9 @@
 
 ## <a name="parts">Parts</a>
 * Raspberry Pi any version ([Preferred 3B, 3B+, 4](https://www.amazon.ca/RS-Components-Raspberry-Model-Motherboard/dp/B07BFH96M3/ref=sr_1_4?crid=5P53UCWHTKDB&keywords=raspberry+pi+3b%2B&qid=1575998783&sprefix=raspb%2Caps%2C168&sr=8-4)) with [MicroSD Card preinstalled with Raspbian Full Version](https://www.amazon.ca/EnjoyGadgets-Raspberry-Pre-Installed-Raspbian-OpenELEC/dp/B07GZVN8DP/ref=sr_1_2?keywords=sd+card+preinstalled+with+raspbian&qid=1575998847&sr=8-2). ($95 ~ $100)
-* GPSV3 Neo 6M Sensor with Antenna Module. ($110 ~ $120)
-* HDMI to VGA cable, VGA to VGA cable, Ethernet cable, Ethernet Adapter, Raspberry Pi Power cable ($30 ~ $40)
-* GPS Antenna with strong Wifi connection + RF U.FL Mini PCI to RP-SMA Female Adapter ($30)
+* [GPSV3 Neo 6M Sensor with Antenna Module](https://www.amazon.ca/GY-GPSV3-M8N-NEO-M8N-001-Eighth-Beidou-Control/dp/B07Z442LSN/ref=sr_1_fkmr1_1?keywords=gpsv3+neo+6m&qid=1575998891&sr=8-1-fkmr1). ($40 ~ $50)
+* [HDMI to VGA cable](https://www.amazon.ca/VicTsing-Adapter-Gold-Plated-Active-Converter/dp/B00YMN9VV0/ref=sr_1_3?keywords=hdmi+to+vga&qid=1575998971&sr=8-3), [VGA to VGA cable](https://www.amazon.ca/DTECH-Computer-Resolution-Projectors-Displays/dp/B0781876KT/ref=sr_1_1_sspa?keywords=vga+to+vga&qid=1575998991&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWVhZRDhNTFlZNlcwJmVuY3J5cHRlZElkPUEwNzIyODM2MzNWSUNTRVpTNVpKNSZlbmNyeXB0ZWRBZElkPUEwMjkxMjAzMjJDME1YS1JDT1A1QyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=), [Raspberry Pi Power cable](https://www.amazon.ca/Adapter-Charger-Portable-Samsung-External/dp/B071KWFZ9Z/ref=sr_1_2_sspa?keywords=raspberry+pi+power+cable&qid=1575999008&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVFCSlpFRllLUVVSJmVuY3J5cHRlZElkPUEwNjMwMDI1QlRCRlczTk5QQk1NJmVuY3J5cHRlZEFkSWQ9QTA1NzA0MTkyREpEMDhQS1Q2U1MwJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) ($30 ~ $40)
+* [GPS Antenna with strong Wifi connection](https://www.amazon.ca/dp/B071DS35G2/ref=pe_3034960_233709270_TE_item_image) + [RF U.FL Mini PCI to RP-SMA Female Adapter](https://www.amazon.ca/dp/B07NVT8FMT/ref=pe_3034960_236394800_TE_dp_i1) ($30)
 * Monitor, keyboard, mouse, breadboard. (optional)
 * PCB Design - [Click here to retrieve the Gerber file for PCB](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Electric%20Folder/HoangLongLe_TableClearV3.zip)
 
