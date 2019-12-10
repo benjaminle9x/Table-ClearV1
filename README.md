@@ -13,8 +13,8 @@
 
 ## <a name="intro">Introduction</a>
 ![Project_Image](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/project.jpg)
-* The Table Clear project is a wait-list, reservations and seating management system that turns smartphones into pagers, revolutionizing the way restaurants connect with their customers.
-* Table Clear allows restaurants to see reservations, booking information and wait-list in real-time database, sends notification to customers when their table is ready, seats them efficiently and confirms the booking by sending notification messages.
+* The Global Positioning System (GPS) is a satellite-based navigation system made up of at least 24 satellites. GPS works in any weather conditions, anywhere in the world, 24 hours a day, with no subscription fees or setup charges. The U.S. Department of Defense (USDOD) originally put the satellites into orbit for military use, but they were made available for civilian use in the 1980s.
+* GPS satellites circle the Earth twice a day in a precise orbit. Each satellite transmits a unique signal and orbital parameters that allow GPS devices to decode and compute the precise location of the satellite. GPS receivers use this information and trilateration to calculate a user's exact location.
 
 ## <a name="parts">Parts</a>
 * Raspberry Pi any version ([Preferred 3B, 3B+, 4](https://www.amazon.ca/RS-Components-Raspberry-Model-Motherboard/dp/B07BFH96M3/ref=sr_1_4?crid=5P53UCWHTKDB&keywords=raspberry+pi+3b%2B&qid=1575998783&sprefix=raspb%2Caps%2C168&sr=8-4)) with [MicroSD Card preinstalled with Raspbian Full Version](https://www.amazon.ca/EnjoyGadgets-Raspberry-Pre-Installed-Raspbian-OpenELEC/dp/B07GZVN8DP/ref=sr_1_2?keywords=sd+card+preinstalled+with+raspbian&qid=1575998847&sr=8-2). ($95 ~ $100)
