@@ -4,6 +4,7 @@
 * [Introduction](#intro)
 * [Parts](#parts)
 * [Time Commitment](#time)
+* [Raspberry Pi Configuration](#rpicon)
 * [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard](#bread)
 * [PCB Designing & Soldering](#pcb)
 * [Power Up](#power)
@@ -30,6 +31,9 @@ Total: $240 ~ $265.
 * Purchasing and delivering parts would take approximately 1 week.
 * Assemblying, testing and implementing codes would take take approximately 1 week.
 * Total: ~ 2 weeks
+
+##<a name="rpicon">RaspberryPi Configuration</a>
+* Create your Raspberry Pi's [image](https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md) for your project.
 
 ## <a name="bread">Breadboard Design</a>
 * There are only 4 wires needed to connect the GPS Module to the Raspberry Pi
