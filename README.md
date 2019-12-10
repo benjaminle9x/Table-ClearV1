@@ -16,7 +16,7 @@
 * Table Clear allows restaurants to see reservations, booking information and wait-list in real-time database, sends notification to customers when their table is ready, seats them efficiently and confirms the booking by sending notification messages.
 
 ## <a name="parts">Parts</a>
-* Raspberry Pi any version (Preferred 3B, 3B+ or 4) with microSD Card preinstalled with Raspbian Full Version. ($70 ~ $75)
+* Raspberry Pi any version ([Preferred 3B, 3B+, 4](https://www.amazon.ca/RS-Components-Raspberry-Model-Motherboard/dp/B07BFH96M3/ref=sr_1_4?crid=5P53UCWHTKDB&keywords=raspberry+pi+3b%2B&qid=1575998783&sprefix=raspb%2Caps%2C168&sr=8-4)) with microSD Card preinstalled with Raspbian Full Version. ($70 ~ $75)
 * GPSV3 Neo 6M Sensor with Antenna Module. ($110 ~ $120)
 * HDMI to VGA cable, VGA to VGA cable, Ethernet cable, Ethernet Adapter, Raspberry Pi Power cable ($30 ~ $40)
 * GPS Antenna with strong Wifi connection + RF U.FL Mini PCI to RP-SMA Female Adapter ($30)
