@@ -77,8 +77,14 @@ enable_uart=1
 force_turbo=1
 init_uart_baud=9600
 ```
-* Reboot the system: `sudo reboot`
-* Configure the module for the 9600 rate: `stty -F /dev/ttyAMA0 9600`
+* Reboot the system: 
+```
+sudo reboot
+```
+* Configure the module for the 9600 rate: 
+```
+stty -F /dev/ttyAMA0 9600
+```
 * Connect AMA0 to the GPS Software:
 * 1st: Kill the process and add the device to the gpsd tool: 
 ```
