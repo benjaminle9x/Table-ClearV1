@@ -1,5 +1,6 @@
 # TABLE CLEAR V1
 ![Project_Image](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/project.jpg)
+* This GPS sensor project is for monitoring which customer is at which table in a restaurant such that the waiters can serve the right order to the right table. 
 
 ## Table of Contents
 * [Introduction](#intro)
@@ -9,6 +10,7 @@
 * [Connecting the GPSV3 Neo Sensor to Raspberry Pi 3b+ with Breadboard](#bread)
 * [PCB Designing & Soldering](#pcb)
 * [Power Up](#power)
+* [Warnings](#warn)
 * [Configurating services](#config)
 * [Unit Testing](#unit)
 
@@ -55,6 +57,9 @@ Total: $240 ~ $265.
 ## <a name="power">Power Up</a>
 * Before powering up the entire Hardware, make sure you test the resistance between the VCC and the GND pin on the PCB Board. The resistance there should be extremely high. If not, the PCB Board is shorted and eventually will damage Raspberry Pi, as well as the GPS Sensor.
 ![Power](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Images%20Folder/officialpi.jpg)
+
+## <a name="warn">Warnings</a>
+* The project can only be set up near a windows or under open sky where there are strong satelites signals. The blue LED on top of the GPS sensor will start blinking once it finds out a nearby satelites and starts getting readings correctly. In case you set up the project indoors with weaker satelites signals, the blue LED will probably not blink and cannot get any readings. 
 
 ## <a name="config">Configurating services</a>
 * Install pip:
