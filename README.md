@@ -22,6 +22,7 @@
 * [HDMI to VGA cable](https://www.amazon.ca/VicTsing-Adapter-Gold-Plated-Active-Converter/dp/B00YMN9VV0/ref=sr_1_3?keywords=hdmi+to+vga&qid=1575998971&sr=8-3), [VGA to VGA cable](https://www.amazon.ca/DTECH-Computer-Resolution-Projectors-Displays/dp/B0781876KT/ref=sr_1_1_sspa?keywords=vga+to+vga&qid=1575998991&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWVhZRDhNTFlZNlcwJmVuY3J5cHRlZElkPUEwNzIyODM2MzNWSUNTRVpTNVpKNSZlbmNyeXB0ZWRBZElkPUEwMjkxMjAzMjJDME1YS1JDT1A1QyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=), [Raspberry Pi Power cable](https://www.amazon.ca/Adapter-Charger-Portable-Samsung-External/dp/B071KWFZ9Z/ref=sr_1_2_sspa?keywords=raspberry+pi+power+cable&qid=1575999008&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVFCSlpFRllLUVVSJmVuY3J5cHRlZElkPUEwNjMwMDI1QlRCRlczTk5QQk1NJmVuY3J5cHRlZEFkSWQ9QTA1NzA0MTkyREpEMDhQS1Q2U1MwJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) ($30 ~ $40)
 * [GPS Antenna with strong Wifi connection](https://www.amazon.ca/dp/B071DS35G2/ref=pe_3034960_233709270_TE_item_image) + [RF U.FL Mini PCI to RP-SMA Female Adapter](https://www.amazon.ca/dp/B07NVT8FMT/ref=pe_3034960_236394800_TE_dp_i1) ($30)
 * Monitor, keyboard, mouse, breadboard. (optional)
+* [8 doubled female pins and 4 singled female pins](https://www.amazon.ca/Gikfun-2-54mm-Female-Straight-Connector/dp/B01K77Y3GC/ref=sr_1_4?keywords=8+double+female+pins&qid=1575999712&sr=8-4) 
 * PCB Design - [Click here to retrieve the Gerber file for PCB](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Electric%20Folder/HoangLongLe_TableClearV3.zip)
 
 
@@ -32,7 +33,7 @@ Total: $240 ~ $265.
 * Assemblying, testing and implementing codes would take take approximately 1 week.
 * Total: ~ 2 weeks
 
-##<a name="rpicon">RaspberryPi Configuration</a>
+## <a name="rpicon">RaspberryPi Configuration</a>
 * Create your Raspberry Pi's [image](https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md) for your project.
 
 ## <a name="bread">Breadboard Design</a>
