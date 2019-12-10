@@ -1,4 +1,8 @@
 # Smart Reservation Table- [Instructions](https://www.instructables.com/id/Raspberry-Pi-the-Neo-6M-GPS/)
+# Week 14 - 10th Dec, 2019 - Build Instruction Due
+Status Update:
++ GPS Sensor readings completed.
++ Longitude and Latitude readings  received. -> Trace back to location successfully.
 # Week 13 - 5th Dec, 2019 - Presentation Due Conti...
 # Week 12 - 28th Nov, 2019 - Presentation Due - [Powerpoint Slide](https://github.com/benjaminle9x/Table-ClearV1/blob/master/Documentation/HardwarePT.pptx)
 Status Update:
